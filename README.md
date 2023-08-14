@@ -1,5 +1,4 @@
 # Hotel-form
-Hotel reservation form template
 Title: Bootstrap Hotel Form Template - Modern and Responsive HTML Form for Hotel Booking
 
 Description:
