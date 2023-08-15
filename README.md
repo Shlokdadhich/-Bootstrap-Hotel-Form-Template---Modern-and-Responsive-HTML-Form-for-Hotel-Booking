@@ -25,6 +25,6 @@ Discover a sleek and responsive hotel booking form template designed with Bootst
 
 Enhance the booking process on your hotel website with this professionally designed Bootstrap hotel form template. Deliver a seamless experience for your guests, leading to increased bookings and customer satisfaction. Download and integrate it now to elevate your hotel's online presence.
 
-[Insert Demo Link Here]
+https://shlokdadhich.github.io/-Bootstrap-Hotel-Form-Template---Modern-and-Responsive-HTML-Form-for-Hotel-Booking/
 
 Tags: HTML, Bootstrap, Hotel, Accommodation, Booking Form, Responsive, Modern Design, User Experience, Customizable, Date Picker, Guest Information, Room Preferences, Data Security.
